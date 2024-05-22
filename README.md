@@ -18,3 +18,11 @@ https://github.com/VLM-BeginnerManual/Image/blob/main/01-ViT/Vision-Transformer%
 
 ![1715317467367](1715317467367.png)
 
+
+
+## 3 LLaVA
+
+论文：Visual Instruction Tuning
+
+我的理解和代码：https://github.com/VLM-BeginnerManual/Image/blob/main/03-LLaVA/Visual%20Instruction%20Tuning.pdf
+
